@@ -19,3 +19,6 @@ The starUML/staruml-xmi seems to be broken. Though that project has PR for fix i
 This repo is just trying to make fix work for myself.
 
 Importing XMI file from Visual Paradigm does not seem to work. As diagram is not visible after import.
+
+How to install this extension:
+You can copy the link of Source Code zip file in release section and paste its link in 'Install from URL..' in starUML Extension.
