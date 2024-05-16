@@ -14,5 +14,8 @@ Select the menu: **File > Import > XMI Import (v2.1)**
 
 Select the menu: **File > Export > XMI Export (v2.1)**
 
+
 The starUML/staruml-xmi seems to be broken. Though that project has PR for fix it has not been accepted.
 This repo is just trying to make fix work for myself.
+
+Importing XMI file from Visual Paradigm does not seem to work. As diagram is not visible after import.
